@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "asc or dfg",
+  "description": "asc or dfg",
   "keywords": [
-    "vmess or vles"
+    "asc or dfg"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/dtrgx24/d8a9n3",
+  "repository": "https://github.com/dtrgx24/d8a9n3",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
